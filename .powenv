@@ -1,0 +1,8 @@
+export PATH="/Users/ponpon/.rvm/gems/ruby-2.2.0@camaleon-cms/bin:/Users/ponpon/.rvm/gems/ruby-2.2.0@global/bin:/Users/ponpon/.rvm/rubies/ruby-2.2.0/bin:$PATH"
+export GEM_HOME='/Users/ponpon/.rvm/gems/ruby-2.2.0@camaleon-cms'
+export GEM_PATH='/Users/ponpon/.rvm/gems/ruby-2.2.0@camaleon-cms:/Users/ponpon/.rvm/gems/ruby-2.2.0@global'
+export MY_RUBY_HOME='/Users/ponpon/.rvm/rubies/ruby-2.2.0'
+export IRBRC='/Users/ponpon/.rvm/rubies/ruby-2.2.0/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT
+export RUBY_VERSION='ruby-2.2.0'
